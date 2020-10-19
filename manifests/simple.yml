@@ -1,0 +1,4 @@
+name: simpleapp
+replicas: 1
+env:
+  LOG_LEVEL: ERROR
